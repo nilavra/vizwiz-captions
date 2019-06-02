@@ -3,7 +3,7 @@ VizWiz API and Caption Evaluation
 
 Code for the VizWiz API and evaluation of generated captions.
 
-###[View the tutorial](demo_vizwiz_caption_evaluation.ipynb)
+### [View the tutorial Jupyter Notebook](demo_vizwiz_caption_evaluation.ipynb).
 
 ## Requirements ##
 - python 3
