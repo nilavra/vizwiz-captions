@@ -1,4 +1,4 @@
-VizWiz API and Caption Evaluation
+VizWiz Captions Evaluation
 ===================
 
 Code for the VizWiz API and evaluation of generated captions.
