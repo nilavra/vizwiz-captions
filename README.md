@@ -20,11 +20,11 @@ Code for the VizWiz API and evaluation of generated captions.
 
 ```./annotation```
 - ```VizWiz_Captions_v1_val.json``` (VizWiz Captions v1 validation set)
-- Dataset shares the same data format as [MS COCO](http://cocodataset.org/#format).
+- Dataset shares the same data format as [MS COCO](http://cocodataset.org/#format-data).
 
 ```./results```
 - ```VizWiz_Fake_Captions.json``` (an example of fake results for running demo)
-- Dataset shares the same data format as [MS COCO](http://cocodataset.org/#format).
+- Dataset shares the same data format as [MS COCO](http://cocodataset.org/#format-data).
 
 
 ```./vizwiz_eval_cap```: The folder where all caption evaluation codes are stored.
