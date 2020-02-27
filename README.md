@@ -1,6 +1,13 @@
 VizWiz Captions Evaluation
 ===================
 
+### Update 2020-02-27:
+Thank you for your interest in VizWiz captions. Active development and maintenance responsibilities of this project has been transferred. Please visit [this repository](https://github.com/Yinan-Zhao/vizwiz-caption) to obtain the latest codes, and for your queries about this project.
+
+
+
+
+
 Code for the VizWiz API and evaluation of generated captions.
 
 ### [View the tutorial Jupyter Notebook](demo_vizwiz_caption_evaluation.ipynb).
